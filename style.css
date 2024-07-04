@@ -1,0 +1,312 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: peachpuff;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid;
+
+    /* for image icon */
+    background-image: url("https://pin.it/4cKW76lu1");
+    background-size: cover;
+    border-radius: 50%;
+}
+.nav-container .logo img {
+    height: 50px;
+    width: 50px;
+    border: 1px solid;
+    background-size: cover;
+    border-radius: 50%;
+   
+    
+}
+
+nav>a {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid;
+    border-color: gray;
+    background-color: antiquewhite;
+    box-shadow: 0px 0px 10px -10px black;
+    border-radius: 5%;
+    
+}
+
+.sweethouse {
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.banner-container {
+    height: 500px;
+    width: 100%;
+    border: 0px solid;
+    background-color: white;
+    box-shadow: 0px 10px 30px -10px black;
+}
+.aboutus-container {
+    height: 50px;
+    width: 10%;
+    border: 1px solid;
+    border-radius: 10%;
+    background-color: white;
+    box-shadow: 0px 10px 30px -10px black;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+
+.container-profile {
+    width: 100%;
+    height: 500px;
+    border: 0px;
+    box-shadow: 0px 10px 30px -10px black; 
+    background-color: antiquewhite;
+}
+.container-card {
+    width: 95%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.card {
+    background-color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+    width: 32%;
+}
+
+.card .card-header img {
+    width: 100%;
+   
+
+}
+
+
+
+
+
+.branch-container {
+    height: 300px;
+    width: 100%;
+    border: px solid;
+    background-color: rgb(255, 255, 188);
+    
+    box-shadow: 0px 10px 30px -10px black;
+    
+}
+.header {
+    margin: 100px;
+    
+}
+.branch-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.branch-item {
+    text-align: center;
+    margin: 30px;
+    
+}
+.branch-icon {
+    height: 150px;
+    width: 150px;
+    border: 5px solid;
+
+    background-size: cover;
+    border-radius: 10%;
+    box-shadow: 0px 10px 30px -10px black;
+    border-color: palegoldenrod;
+}
+
+.branch-icon .city1 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 10%;
+}
+.branch-icon .city2 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 10%;
+}
+.branch-icon .city3 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 10%;
+}
+
+
+
+
+.slideshow-container img {
+    width: 70%;
+    height: 300px;
+    
+}
+
+.bnrautoslide {
+    width: 100%;
+    height: 400px;
+    border: 0px;
+    box-shadow: 0px 10px 30px -10px black;
+    position: absolute;
+}
+
+
+
+
+.profile-container {
+    width: 100%;
+    border: 0px solid;
+    background-color: aliceblue;
+    height: 300px;
+    
+    box-shadow: 0px 10px 30px -10px black;
+    border-color: palegoldenrod;
+}
+.header {
+    margin: 20px;
+}
+.profile-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.profile-item {
+    text-align: center;
+    margin: 30px;
+    
+}
+.profile-icon {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 50%;
+    box-shadow: 0px 10px 30px -10px black;
+}
+
+.profile-icon .cake1 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 50%;
+}
+.profile-icon .cake2 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 50%;
+}
+.profile-icon .cake3 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 50%;
+}
+.profile-icon .cake4 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 50%;
+}
+.profile-icon .cake5 img {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+
+    background-size: cover;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header2 {
+    margin: 20px;
+    
+}
+
+
+
+.contact-container {
+    height: 450px;
+    width: 50%;
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 0px solid;
+    background-color: rgb(255, 238, 207);
+    box-shadow: 0px 10px 30px -10px black;
+    border-radius: 10%;
+}
+
+.message-content {
+    margin: 50px;
+}
+
+
+.headoutput {
+    margin: 20px;
+}
+
+.message-output {
+    height: 300px;
+    width: 30%;
+    margin-right: 0%;
+    margin-left: 40%;
+    border: 0px solid;
+    background-color: rgb(255, 246, 230);
+    border-radius: 10%;
+    box-shadow: 0px 10px 30px -10px black;
+}
+
+
+
+
+
+.closing {
+    height: 300px;
+    width: 100%;
+    border: 0px solid;
+    background-color: rgb(255, 255, 151);
+    box-shadow: 0px 10px 30px -10px black;
+}
